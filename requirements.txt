@@ -1,0 +1,11 @@
+# Universal Multimodal & Signal Intelligence Engine Dependencies
+numpy>=1.26.0
+scipy>=1.12.0
+pandas>=2.2.0
+pydantic>=2.7.0
+plotly>=5.20.0
+streamlit>=1.35.0
+duckdb>=0.10.0
+requests>=2.31.0
+google-genai>=0.1.0
+
